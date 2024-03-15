@@ -4,5 +4,7 @@ A Geometry Dash Geode mod to interact with users in the level editor live, Inspi
 # TODOS
 - Sockets
 - Level ui
+- Central Server For Websockets?
 - A Layer to lookup friends who activated a collab button
 - Server
+
